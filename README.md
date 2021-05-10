@@ -1,0 +1,2 @@
+# TOURISM-SERVICES
+We have created tis website in which the both frontend and backend are used . FRONTEND: 1--> Website is fully responsive 2--> It consists of contact form which is linked with the backend 3--> There is gallery section, about and service section  BACKEND--> 1) In backend we have created the database name - formdata 2) Name of table - userinfodata 3) we have used xammp server to complete this project 
